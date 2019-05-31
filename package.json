@@ -42,7 +42,7 @@
     "parse-torrent": "^4.0.0",
     "random-access-file": "^0.3.1",
     "rimraf": "^2.2.5",
-    "thunky": "^0.1.0",
+    "thunky": "^1.0.3",
     "bittorrent-nodeid": "^1.0.0"
   },
   "license": "MIT",
