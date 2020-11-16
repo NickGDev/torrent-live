@@ -37,7 +37,7 @@
     "hat": "0.0.3",
     "ip": "^0.3.0",
     "ip-set": "^1.0.0",
-    "magnet-uri": "^2.0.1",
+    "magnet-uri": "^6.1.0",
     "mkdirp": "^0.3.5",
     "parse-torrent": "^4.0.0",
     "random-access-file": "^0.3.1",
