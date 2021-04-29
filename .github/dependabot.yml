@@ -1,0 +1,22 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: bittorrent-tracker
+    versions:
+    - 9.16.0
+    - 9.16.1
+  - dependency-name: random-access-file
+    versions:
+    - 2.1.4
+    - 2.1.5
+  - dependency-name: parse-torrent
+    versions:
+    - 9.1.1
+  - dependency-name: magnet-uri
+    versions:
+    - 6.1.0
